@@ -1,0 +1,1 @@
+<?php $banner='<a href="https://baronelorenzo.altervista.org"><img style="width:500px; heigth:100px;" src="https://baronelorenzo.altervista.org/assets/img/BaroneLorenzoGIF.gif"></a>'; ?>
